@@ -16,7 +16,7 @@ Built using HTML, CSS, Bootstrap, and JavaScript.
 
 ## 🧾 Output Preview
 
-![Bookmark Maker Output]()
+![Bookmark Maker Output](https://github.com/SanthiyaBaskar/A-stylish-and-responsive-web-app-to-save-and-manage-website-bookmarks/blob/main/Diya%20img.jpg)
 
 ---
 
